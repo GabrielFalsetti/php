@@ -10,5 +10,6 @@ $Nome = "MacBook ";
 $Preco = 8000;
 
 echo "Produto do ID: " .$Id . " Com o Nome: ".$Nome. "com o preco: ".$Preco;
+echo "Teste";
 
 ?>
